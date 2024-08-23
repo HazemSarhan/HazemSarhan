@@ -27,3 +27,10 @@ I'm a backend developer with a strong focus on building scalable, high-performan
 
 #
 
+### 📊 Stats
+
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=HazemSarhan&show_icons=true&theme=gruvbox)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=HazemSarhan&theme=gruvbox&border_radius=4.5)
+
+#
