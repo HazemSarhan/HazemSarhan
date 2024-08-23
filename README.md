@@ -1,4 +1,4 @@
-# 🏄‍♂️ Hazem Megahed
+# 👋 Hazem Megahed
 
 **`Backend Developer | IT Support`**
 
