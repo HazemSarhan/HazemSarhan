@@ -1,6 +1,6 @@
 # 👋 Hazem Megahed
 
-**`Backend Developer | IT Support`**
+**`Backend Developer | Node.js`**
 
 I'm a backend developer with a strong focus on building scalable, high-performance web applications. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. I thrive on solving complex problems and constantly seek to improve my skills by diving deep into new technologies and best practices.
 
